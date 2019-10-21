@@ -34,7 +34,8 @@ class Jurnal_memorial extends CI_Controller {
       // lakukan upload file dengan memanggil function upload yang ada di SiswaModel.php
         
       $upload = $this->Jurnal_memorial_model->upload_file($this->filename);
-      
+      /*var_dump($_POST);
+      exit();*/
       if($upload['result'] == "success"){
 
         include APPPATH.'third_party\PHPExcel\PHPExcel.php';
