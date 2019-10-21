@@ -1,0 +1,60 @@
+.panel-title {
+	font-size: 12px;
+}
+
+.l-btn-text {
+	font-size: 11px;
+}
+
+.datagrid-header .datagrid-cell span {
+	font-size: 11px;
+}
+
+.pagination-info {
+	font-size: 11px;
+}
+
+.pagination span {
+	font-size: 11px;
+}
+
+.pagination .pagination-num {
+	font-size: 11px;
+}
+
+.textbox .textbox-text {
+	font-size: 11px;
+}
+
+.combobox-item, .combobox-group, .combobox-stick {
+	font-size: 11px;	
+}
+
+.datagrid-cell, .datagrid-cell-group, .datagrid-header-rownumber, .datagrid-cell-rownumber {
+	font-size: 11px;
+}
+
+.calendar table td,
+.calendar table th {
+  font-size: 11px;
+}
+
+.calendar-title span {
+  font-size: 11px;
+}
+
+.datebox-button a {
+  font-size: 11px;
+}
+
+.tooltip-content {
+  font-size: 11px;
+}
+
+.radiobutton {
+	border: 2px solid #11bbb2;
+}
+
+.radiobutton-inner {
+	background: #11bbb2;
+}
